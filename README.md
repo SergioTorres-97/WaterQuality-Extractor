@@ -442,7 +442,7 @@ Este proyecto est√° bajo la Licencia MIT. Ver archivo [LICENSE](LICENSE) para m√
 ```
 MIT License
 
-Copyright (c) 2024 [Tu Nombre]
+Copyright (c) 2024 [Sergio David Torres Piraquive]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
